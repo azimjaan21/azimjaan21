@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azimjon Akhtamov</h1>
-<h3 align="center">A passionate Mobile Developer from Uzbekistan</h3>
+<h3 align="center">A passionate Mobile Developer from Uzbekistan!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/azimjaantech](https://linktr.ee/azimjaantech)
 

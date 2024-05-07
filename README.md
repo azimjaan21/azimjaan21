@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I'm currently learning **Flutter**
+- 🌱 I'm a **Flutter Developer** Developer
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/azimjaantech](https://linktr.ee/azimjaantech)
 

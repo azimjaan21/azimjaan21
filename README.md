@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I'm a **Flutter Developer** 
+- 🌱 I'm a **Software Engineer** 
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/azimjaantech](https://linktr.ee/azimjaantech)
 

@@ -7,12 +7,9 @@
 
 
 
-- 🌱 I'm a **Software Engineer** 
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/azimjaantech](https://linktr.ee/azimjaantech)
-
+- 🌱 I'm a **Software Engineer**
 - 📫 How to reach me **azimjanakhtamov21@gmail.com**
-- ☘️LinkTree: https://linktr.ee/azimjaantech
+- ☘️LinkTree: **https://linktr.ee/azimjaantech**
 
 
 <h3 align="left">Connect with me:</h3>

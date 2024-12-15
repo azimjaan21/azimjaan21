@@ -9,7 +9,7 @@
 
 - 🌱 I'm a **Software Engineer**
 - 
-- 📫 How to reach me **azimjanakhtamov21@gmail.com**
+- 📫 How to reach me **azimjaan21@gmail.com**
 - 
 - ☘️LinkTree: **https://linktr.ee/azimjaantech**
 

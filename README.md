@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I'm a **Software Engineer**
+- 🌱 I'm a **AI & Computer Vision Engineer**
 - 
 - 📫 How to reach me **azimjaan21@gmail.com**
 - 
